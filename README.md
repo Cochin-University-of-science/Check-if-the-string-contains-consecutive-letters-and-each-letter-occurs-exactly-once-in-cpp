@@ -1,0 +1,1 @@
+# Check-if-the-string-contains-consecutive-letters-and-each-letter-occurs-exactly-once-in-cpp
